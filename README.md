@@ -1,4 +1,4 @@
-JOGO ADIDINHA CORES
+JOGO ADIVINHA CORES
 Repositório para C3 De Desenvolvimento WEB I, Jogo de adivinhamento de 10 cores aleatórias!
 
 📝 Descrição do Jogo
